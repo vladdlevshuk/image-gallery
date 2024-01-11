@@ -26,4 +26,4 @@ The project was brought to life using the following technologies and tools:
 
 ## Deployment
 
-To explore the project, please click on the following link: [Image Gallery](https://vladdlevshuk.github.io/Image-Gallery/)
+To explore the project, please click on the following link: [Image Gallery](https://vladdlevshuk.github.io/image-gallery/)
